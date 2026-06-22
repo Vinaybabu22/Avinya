@@ -1,5 +1,4 @@
 import { Link, useLocation } from "react-router-dom";
-
 import {
   LayoutDashboard,
   Briefcase,
@@ -10,9 +9,10 @@ import {
   FileText,
   User,
   Settings,
+  X
 } from "lucide-react";
 
-function Sidebar() {
+function Sidebar({ onClose }) {
   const location = useLocation();
   const menuItems = [
     { name: "Dashboard", icon: LayoutDashboard , path: "/" },
@@ -27,16 +27,22 @@ function Sidebar() {
   ];
 
   return (
-    <div className="w-72 bg-white min-h-screen p-6 shadow-xl">
+    <div className="w-72 bg-white min-h-screen p-6 shadow-xl overflow-y-auto">
 
-      <div className="mb-10">
-        <h1 className="text-4xl font-extrabold text-violet-600">
-          AVINYA
-        </h1>
-
-        <p className="text-sm text-slate-500 mt-1">
-          Learn • Apply • Grow
-        </p>
+      <div className="mb-10 flex justify-between items-center">
+        <div>
+          <h1 className="text-4xl font-extrabold text-violet-600">
+            AVINYA
+          </h1>
+          <p className="text-sm text-slate-500 mt-1">
+            Learn • Apply • Grow
+          </p>
+        </div>
+        {onClose && (
+          <button onClick={onClose} className="md:hidden text-slate-400 hover:text-slate-600">
+            <X size={24} />
+          </button>
+        )}
       </div>
 
       <ul className="space-y-3">
@@ -47,6 +53,7 @@ function Sidebar() {
             <Link
               to={item.path}
               key={item.name}
+              onClick={onClose}
             >
               <li
                 className={`flex items-center gap-3 p-4 rounded-2xl transition-all duration-300 ${
