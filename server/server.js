@@ -4,6 +4,8 @@ const express = require("express");
 const cors = require("cors");
 const connectDB = require("./config/db");
 const jobRoutes = require("./routes/jobRoutes");
+const internshipRoutes = require("./routes/internshipRoutes");
+const courseRoutes = require("./routes/courseRoutes");
 
 const app = express();
 
@@ -12,6 +14,8 @@ connectDB();
 app.use(cors());
 app.use(express.json());
 app.use("/api/jobs", jobRoutes);
+app.use("/api/internships", internshipRoutes);
+app.use("/api/courses", courseRoutes);
 
 app.get("/", (req, res) => {
   res.send("Avinya backend is running");
