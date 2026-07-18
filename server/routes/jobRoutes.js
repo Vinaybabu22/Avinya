@@ -6,7 +6,7 @@ const router = express.Router();
 // Get all jobs
 router.get("/", async (req, res) => {
   try {
-    const jobs = await Job.find().sort({ createdAt: -1 });
+    const jobs = await Job.find().sort({ createdAt: -1 }).limit(50);
 
     res.status(200).json(jobs);
   } catch (error) {

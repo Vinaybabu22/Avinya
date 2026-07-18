@@ -21,6 +21,8 @@ Students and professionals often visit different websites to find jobs, internsh
 
 ### ✅ Current Features
 
+* User Authentication (Login/Register)
+* User Profiles
 * Responsive Dashboard
 * Sidebar Navigation with Routing
 * Jobs Module
@@ -33,12 +35,10 @@ Students and professionals often visit different websites to find jobs, internsh
 
 ### 🚧 Upcoming Features
 
-* User Authentication (Login/Register)
 * Resume Analyzer
 * AI-based Recommendations
 * Unified Search
 * Saved Jobs & Courses
-* User Profiles
 * Admin Dashboard
 * External API Integration
 
@@ -86,10 +86,12 @@ Avinya
 │   ├── config
 │   │   └── db.js
 │   ├── models
+│   │   ├── User.js
 │   │   ├── Job.js
 │   │   ├── Internship.js
 │   │   └── Course.js
 │   ├── routes
+│   │   ├── authRoutes.js
 │   │   ├── jobRoutes.js
 │   │   ├── internshipRoutes.js
 │   │   └── courseRoutes.js
@@ -177,6 +179,14 @@ http://localhost:5173
 
 ## 🌐 API Endpoints
 
+### Authentication
+
+| Method | Endpoint              |
+| ------ | --------------------- |
+| POST   | `/api/auth/register`  |
+| POST   | `/api/auth/login`     |
+| GET    | `/api/auth/profile`   |
+
 ### Jobs
 
 | Method | Endpoint    |
@@ -239,7 +249,6 @@ npm run dev
 
 ## 📌 Future Roadmap
 
-* User Authentication
 * Resume Upload & Analysis
 * AI Recommendation Engine
 * Unified Search
