@@ -1,0 +1,912 @@
+[
+  {
+    "title": "Python Basics",
+    "provider": "Coursera",
+    "duration": "4 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "JavaScript",
+      "MongoDB",
+      "Power BI"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/1"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "Udemy",
+    "duration": "8 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Git",
+      "Java",
+      "Docker"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/2"
+  },
+  {
+    "title": "React Development",
+    "provider": "NPTEL",
+    "duration": "8 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "HTML",
+      "React",
+      "MongoDB"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/3"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "Great Learning",
+    "duration": "4 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "MongoDB",
+      "HTML",
+      "Docker"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/4"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "freeCodeCamp",
+    "duration": "8 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Docker",
+      "CSS",
+      "MongoDB"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/5"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "edX",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Node.js",
+      "AWS",
+      "Git"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/6"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "Simplilearn",
+    "duration": "8 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/7"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "Coursera",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "SQL",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/8"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "Udemy",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "React",
+      "CSS",
+      "SQL"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/9"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "NPTEL",
+    "duration": "4 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "SQL",
+      "AWS",
+      "JavaScript"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/10"
+  },
+  {
+    "title": "Python Basics",
+    "provider": "Great Learning",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "JavaScript",
+      "Spring Boot",
+      "HTML"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/11"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "freeCodeCamp",
+    "duration": "Self Paced",
+    "level": "Beginner",
+    "skills": [
+      "Python",
+      "React",
+      "JavaScript"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/12"
+  },
+  {
+    "title": "React Development",
+    "provider": "edX",
+    "duration": "Self Paced",
+    "level": "Beginner",
+    "skills": [
+      "Git",
+      "React",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/13"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "Simplilearn",
+    "duration": "4 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "Git",
+      "SQL",
+      "Node.js"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/14"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "Coursera",
+    "duration": "8 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "React",
+      "AWS",
+      "Spring Boot"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/15"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "Udemy",
+    "duration": "Self Paced",
+    "level": "Intermediate",
+    "skills": [
+      "CSS",
+      "MongoDB",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/16"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "NPTEL",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Node.js",
+      "SQL",
+      "MongoDB"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/17"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "Great Learning",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "SQL",
+      "Spring Boot",
+      "JavaScript"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/18"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "freeCodeCamp",
+    "duration": "4 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Power BI",
+      "MongoDB",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/19"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "edX",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Node.js",
+      "SQL",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/20"
+  },
+  {
+    "title": "Python Basics",
+    "provider": "Simplilearn",
+    "duration": "Self Paced",
+    "level": "Advanced",
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "Node.js"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/21"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "Coursera",
+    "duration": "Self Paced",
+    "level": "Advanced",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/22"
+  },
+  {
+    "title": "React Development",
+    "provider": "Udemy",
+    "duration": "4 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Docker",
+      "Spring Boot",
+      "SQL"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/23"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "NPTEL",
+    "duration": "Self Paced",
+    "level": "Beginner",
+    "skills": [
+      "CSS",
+      "React",
+      "Power BI"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/24"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "Great Learning",
+    "duration": "4 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "HTML",
+      "Spring Boot",
+      "Docker"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/25"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "freeCodeCamp",
+    "duration": "8 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "Spring Boot",
+      "Docker",
+      "Git"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/26"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "edX",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Power BI",
+      "Spring Boot",
+      "React"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/27"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "Simplilearn",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "HTML",
+      "Docker",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/28"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "Coursera",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Python",
+      "AWS",
+      "SQL"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/29"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "Udemy",
+    "duration": "Self Paced",
+    "level": "Intermediate",
+    "skills": [
+      "Java",
+      "HTML",
+      "SQL"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/30"
+  },
+  {
+    "title": "Python Basics",
+    "provider": "NPTEL",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "AWS",
+      "Python",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/31"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "Great Learning",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "SQL",
+      "Docker",
+      "Power BI"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/32"
+  },
+  {
+    "title": "React Development",
+    "provider": "freeCodeCamp",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "AWS",
+      "SQL",
+      "React"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/33"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "edX",
+    "duration": "4 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "Git",
+      "Java",
+      "AWS"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/34"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "Simplilearn",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "React",
+      "Node.js",
+      "Git"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/35"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "Coursera",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/36"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "Udemy",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "AWS",
+      "TensorFlow",
+      "HTML"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/37"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "NPTEL",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Java",
+      "Power BI",
+      "CSS"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/38"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "Great Learning",
+    "duration": "4 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "SQL",
+      "React",
+      "Spring Boot"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/39"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "freeCodeCamp",
+    "duration": "8 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "Java",
+      "Power BI",
+      "Git"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/40"
+  },
+  {
+    "title": "Python Basics",
+    "provider": "edX",
+    "duration": "4 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "MongoDB",
+      "Node.js",
+      "HTML"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/41"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "Simplilearn",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "HTML",
+      "React",
+      "AWS"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/42"
+  },
+  {
+    "title": "React Development",
+    "provider": "Coursera",
+    "duration": "Self Paced",
+    "level": "Advanced",
+    "skills": [
+      "React",
+      "Spring Boot",
+      "Git"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/43"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "Udemy",
+    "duration": "4 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "HTML",
+      "Power BI",
+      "SQL"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/44"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "NPTEL",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "React",
+      "AWS",
+      "Power BI"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/45"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "Great Learning",
+    "duration": "8 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "Node.js",
+      "CSS",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/46"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "freeCodeCamp",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Node.js",
+      "TensorFlow",
+      "React"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/47"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "edX",
+    "duration": "8 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "Git",
+      "MongoDB",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/48"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "Simplilearn",
+    "duration": "4 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "TensorFlow",
+      "Java",
+      "Spring Boot"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/49"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "Coursera",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "SQL",
+      "HTML",
+      "Docker"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/50"
+  },
+  {
+    "title": "Python Basics",
+    "provider": "Udemy",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "JavaScript",
+      "Power BI",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/51"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "NPTEL",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Spring Boot",
+      "Java",
+      "Docker"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/52"
+  },
+  {
+    "title": "React Development",
+    "provider": "Great Learning",
+    "duration": "Self Paced",
+    "level": "Beginner",
+    "skills": [
+      "MongoDB",
+      "Node.js",
+      "Python"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/53"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "freeCodeCamp",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Git",
+      "Power BI",
+      "SQL"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/54"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "edX",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Python"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/55"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "Simplilearn",
+    "duration": "4 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "CSS",
+      "Spring Boot",
+      "Power BI"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/56"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "Coursera",
+    "duration": "4 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "JavaScript",
+      "Docker",
+      "CSS"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/57"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "Udemy",
+    "duration": "4 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "HTML",
+      "Node.js",
+      "AWS"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/58"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "NPTEL",
+    "duration": "Self Paced",
+    "level": "Advanced",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/59"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "Great Learning",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "Java",
+      "CSS",
+      "MongoDB"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/60"
+  },
+  {
+    "title": "Python Basics",
+    "provider": "freeCodeCamp",
+    "duration": "4 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "CSS",
+      "SQL",
+      "TensorFlow"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/61"
+  },
+  {
+    "title": "Java Programming",
+    "provider": "edX",
+    "duration": "Self Paced",
+    "level": "Beginner",
+    "skills": [
+      "React",
+      "Spring Boot",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/62"
+  },
+  {
+    "title": "React Development",
+    "provider": "Simplilearn",
+    "duration": "8 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "AWS",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/63"
+  },
+  {
+    "title": "Node.js Bootcamp",
+    "provider": "Coursera",
+    "duration": "Self Paced",
+    "level": "Intermediate",
+    "skills": [
+      "TensorFlow",
+      "HTML",
+      "Docker"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/64"
+  },
+  {
+    "title": "Machine Learning",
+    "provider": "Udemy",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Spring Boot",
+      "Node.js",
+      "MongoDB"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/65"
+  },
+  {
+    "title": "SQL Masterclass",
+    "provider": "NPTEL",
+    "duration": "6 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "React",
+      "SQL",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/66"
+  },
+  {
+    "title": "AWS Fundamentals",
+    "provider": "Great Learning",
+    "duration": "8 Weeks",
+    "level": "Intermediate",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Python"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/67"
+  },
+  {
+    "title": "Data Structures",
+    "provider": "freeCodeCamp",
+    "duration": "8 Weeks",
+    "level": "Advanced",
+    "skills": [
+      "HTML",
+      "JavaScript",
+      "Spring Boot"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/68"
+  },
+  {
+    "title": "MongoDB Essentials",
+    "provider": "edX",
+    "duration": "Self Paced",
+    "level": "Beginner",
+    "skills": [
+      "Spring Boot",
+      "Java",
+      "Python"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/69"
+  },
+  {
+    "title": "JavaScript Complete",
+    "provider": "Simplilearn",
+    "duration": "6 Weeks",
+    "level": "Beginner",
+    "skills": [
+      "Docker",
+      "Git",
+      "Java"
+    ],
+    "description": "Online course.",
+    "courseLink": "https://example.com/courses/70"
+  }
+]

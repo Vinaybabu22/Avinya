@@ -1,0 +1,2102 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Power BI",
+      "MongoDB",
+      "AWS"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/1"
+  },
+  {
+    "title": "Python Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Node.js"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/2"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Wipro",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "AWS",
+      "Spring Boot",
+      "CSS"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/3"
+  },
+  {
+    "title": "React Developer",
+    "company": "Accenture",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Docker"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/4"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "IBM",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "AWS",
+      "Power BI",
+      "TensorFlow"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/5"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Oracle",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "CSS",
+      "Python",
+      "TensorFlow"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/6"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Capgemini",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "AWS",
+      "MongoDB",
+      "Spring Boot"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/7"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Cognizant",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Spring Boot",
+      "HTML",
+      "SQL"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/8"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Zoho",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Docker",
+      "CSS",
+      "Python"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/9"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Microsoft",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Java",
+      "AWS",
+      "Power BI"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/10"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "CSS",
+      "Java",
+      "SQL"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/11"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Amazon",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "React",
+      "MongoDB",
+      "Java"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/12"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Adobe",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Git",
+      "MongoDB",
+      "TensorFlow"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/13"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Deloitte",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "JavaScript",
+      "Power BI",
+      "TensorFlow"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/14"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Tech Mahindra",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "Java",
+      "Power BI",
+      "React"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/15"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "HCLTech",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Git",
+      "Docker",
+      "Java"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/16"
+  },
+  {
+    "title": "Python Developer",
+    "company": "LTIMindtree",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "CSS",
+      "Power BI",
+      "Java"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/17"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Flipkart",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "CSS",
+      "JavaScript",
+      "Spring Boot"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/18"
+  },
+  {
+    "title": "React Developer",
+    "company": "Paytm",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "React",
+      "MongoDB"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/19"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Swiggy",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "HTML",
+      "Docker",
+      "Power BI"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/20"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Infosys",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "SQL",
+      "HTML",
+      "Java"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/21"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "MongoDB",
+      "Power BI",
+      "JavaScript"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/22"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Wipro",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "React",
+      "Python",
+      "AWS"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/23"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Accenture",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "Spring Boot",
+      "React",
+      "AWS"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/24"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "IBM",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Node.js",
+      "Power BI",
+      "Spring Boot"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/25"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Oracle",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Python",
+      "React",
+      "AWS"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/26"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Capgemini",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "TensorFlow",
+      "MongoDB",
+      "Power BI"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/27"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Cognizant",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "MongoDB",
+      "Java",
+      "Power BI"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/28"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Zoho",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Java",
+      "TensorFlow",
+      "Git"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/29"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Power BI",
+      "MongoDB",
+      "TensorFlow"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/30"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "CSS",
+      "Node.js",
+      "Spring Boot"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/31"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Amazon",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "SQL",
+      "MongoDB",
+      "React"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/32"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Adobe",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "React",
+      "Python",
+      "MongoDB"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/33"
+  },
+  {
+    "title": "React Developer",
+    "company": "Deloitte",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/34"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Tech Mahindra",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "SQL",
+      "AWS",
+      "HTML"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/35"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "HCLTech",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Git",
+      "CSS",
+      "Power BI"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/36"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "LTIMindtree",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "TensorFlow",
+      "HTML",
+      "Python"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/37"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Power BI",
+      "JavaScript",
+      "MongoDB"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/38"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Paytm",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "JavaScript",
+      "Power BI",
+      "TensorFlow"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/39"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Swiggy",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "Docker",
+      "SQL"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/40"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Infosys",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "TensorFlow",
+      "AWS",
+      "Docker"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/41"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "TCS",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "CSS",
+      "Python",
+      "AWS"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/42"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Wipro",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Docker",
+      "Git",
+      "Java"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/43"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Accenture",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Docker",
+      "Java",
+      "TensorFlow"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/44"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "IBM",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Spring Boot",
+      "Power BI",
+      "MongoDB"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/45"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Oracle",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "MongoDB",
+      "TensorFlow"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/46"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Capgemini",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Python",
+      "Java",
+      "Git"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/47"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Cognizant",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Docker",
+      "Java",
+      "React"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/48"
+  },
+  {
+    "title": "React Developer",
+    "company": "Zoho",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Python",
+      "Node.js",
+      "Power BI"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/49"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Microsoft",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "SQL",
+      "Git",
+      "MongoDB"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/50"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Google",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "HTML",
+      "MongoDB",
+      "CSS"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/51"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Amazon",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Python",
+      "React",
+      "HTML"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/52"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Adobe",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "React",
+      "MongoDB",
+      "Python"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/53"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Deloitte",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Node.js",
+      "HTML",
+      "MongoDB"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/54"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Tech Mahindra",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Node.js",
+      "Docker",
+      "Spring Boot"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/55"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "HCLTech",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "CSS",
+      "Node.js",
+      "React"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/56"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "LTIMindtree",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "Power BI"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/57"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Flipkart",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Java",
+      "Git",
+      "Node.js"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/58"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Paytm",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "TensorFlow",
+      "HTML",
+      "MongoDB"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/59"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Swiggy",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "HTML",
+      "Node.js",
+      "React"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/60"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "Python",
+      "JavaScript"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/61"
+  },
+  {
+    "title": "Python Developer",
+    "company": "TCS",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Spring Boot",
+      "Git",
+      "MongoDB"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/62"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Wipro",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Java",
+      "HTML",
+      "Python"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/63"
+  },
+  {
+    "title": "React Developer",
+    "company": "Accenture",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "MongoDB",
+      "AWS"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/64"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "IBM",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Power BI",
+      "HTML",
+      "Git"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/65"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Oracle",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Power BI",
+      "Spring Boot",
+      "JavaScript"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/66"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Capgemini",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "SQL",
+      "JavaScript",
+      "MongoDB"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/67"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Cognizant",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "Node.js",
+      "CSS",
+      "Power BI"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/68"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Zoho",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "Node.js",
+      "Python",
+      "JavaScript"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/69"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Microsoft",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Power BI",
+      "Java",
+      "SQL"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/70"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Google",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "MongoDB",
+      "JavaScript",
+      "Git"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/71"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Amazon",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Node.js"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/72"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Adobe",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "AWS",
+      "Node.js",
+      "React"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/73"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "AWS",
+      "Power BI",
+      "SQL"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/74"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Tech Mahindra",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Python",
+      "MongoDB",
+      "AWS"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/75"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "HCLTech",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Docker",
+      "Node.js",
+      "HTML"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/76"
+  },
+  {
+    "title": "Python Developer",
+    "company": "LTIMindtree",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "CSS",
+      "Java",
+      "SQL"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/77"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Flipkart",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "CSS",
+      "Java",
+      "Git"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/78"
+  },
+  {
+    "title": "React Developer",
+    "company": "Paytm",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Git",
+      "Power BI",
+      "TensorFlow"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/79"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Swiggy",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "React",
+      "Java",
+      "Git"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/80"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Infosys",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "AWS",
+      "TensorFlow",
+      "Git"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/81"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "React",
+      "MongoDB",
+      "Python"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/82"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "CSS",
+      "MongoDB",
+      "Java"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/83"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Accenture",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Python",
+      "MongoDB",
+      "Java"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/84"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "IBM",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "React",
+      "SQL",
+      "Python"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/85"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Oracle",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/86"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Capgemini",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "TensorFlow",
+      "React",
+      "Node.js"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/87"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Cognizant",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "CSS",
+      "Git",
+      "TensorFlow"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/88"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Zoho",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Spring Boot",
+      "TensorFlow",
+      "CSS"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/89"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Spring Boot"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/90"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "Power BI"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/91"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "SQL",
+      "React",
+      "TensorFlow"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/92"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Adobe",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Spring Boot",
+      "JavaScript",
+      "AWS"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/93"
+  },
+  {
+    "title": "React Developer",
+    "company": "Deloitte",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "React",
+      "HTML",
+      "AWS"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/94"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Tech Mahindra",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "Power BI",
+      "React",
+      "CSS"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/95"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "HCLTech",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "JavaScript",
+      "Docker",
+      "Git"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/96"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "LTIMindtree",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "TensorFlow",
+      "Node.js",
+      "JavaScript"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/97"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Flipkart",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Spring Boot",
+      "Docker",
+      "HTML"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/98"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Paytm",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Docker",
+      "SQL",
+      "Python"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/99"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Swiggy",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "React",
+      "Java",
+      "Spring Boot"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/100"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "MongoDB",
+      "Docker",
+      "Spring Boot"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/101"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "TCS",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Spring Boot"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/102"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Wipro",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "JavaScript",
+      "AWS",
+      "Docker"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/103"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Accenture",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "Spring Boot",
+      "JavaScript",
+      "Java"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/104"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "IBM",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "TensorFlow",
+      "Docker",
+      "Java"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/105"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Oracle",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "HTML",
+      "SQL",
+      "MongoDB"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/106"
+  },
+  {
+    "title": "Python Developer",
+    "company": "Capgemini",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Node.js",
+      "TensorFlow",
+      "JavaScript"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/107"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Cognizant",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "AWS",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/108"
+  },
+  {
+    "title": "React Developer",
+    "company": "Zoho",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "React",
+      "JavaScript",
+      "Python"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/109"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Python",
+      "Spring Boot",
+      "AWS"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/110"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Google",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "MongoDB",
+      "HTML",
+      "CSS"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/111"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Amazon",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "CSS",
+      "Spring Boot",
+      "Python"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/112"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Adobe",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "Python",
+      "HTML",
+      "Power BI"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/113"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Deloitte",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "Python",
+      "Node.js",
+      "JavaScript"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/114"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Tech Mahindra",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "CSS",
+      "TensorFlow",
+      "Git"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/115"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "HCLTech",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "MongoDB",
+      "Java",
+      "CSS"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/116"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "LTIMindtree",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Docker",
+      "Power BI",
+      "Spring Boot"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/117"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Flipkart",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "Java",
+      "CSS"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/118"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Paytm",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "AWS",
+      "Java",
+      "TensorFlow"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/119"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Swiggy",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Docker"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/120"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Infosys",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "AWS",
+      "Python",
+      "Power BI"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/121"
+  },
+  {
+    "title": "Python Developer",
+    "company": "TCS",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "Java",
+      "MongoDB",
+      "Git"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/122"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Wipro",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "React",
+      "Docker",
+      "Node.js"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/123"
+  },
+  {
+    "title": "React Developer",
+    "company": "Accenture",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Docker"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/124"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "IBM",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Docker",
+      "MongoDB",
+      "Node.js"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/125"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Oracle",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "Docker",
+      "SQL",
+      "AWS"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/126"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "JavaScript",
+      "Java",
+      "TensorFlow"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/127"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "Java"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/128"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Zoho",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "TensorFlow",
+      "Python",
+      "Java"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/129"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Microsoft",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "MongoDB",
+      "Docker",
+      "AWS"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/130"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Google",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "Python",
+      "Node.js",
+      "Docker"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/131"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Amazon",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "Node.js",
+      "Java",
+      "TensorFlow"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/132"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Adobe",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Docker",
+      "MongoDB",
+      "Git"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/133"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Deloitte",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "HTML",
+      "MongoDB",
+      "Java"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/134"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Tech Mahindra",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "SQL",
+      "CSS",
+      "TensorFlow"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/135"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "HCLTech",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "React",
+      "AWS",
+      "Python"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Software Engineer.",
+    "applyLink": "https://example.com/jobs/136"
+  },
+  {
+    "title": "Python Developer",
+    "company": "LTIMindtree",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "CSS",
+      "Java",
+      "SQL"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a Python Developer.",
+    "applyLink": "https://example.com/jobs/137"
+  },
+  {
+    "title": "Java Developer",
+    "company": "Flipkart",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "MongoDB",
+      "TensorFlow",
+      "AWS"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Java Developer.",
+    "applyLink": "https://example.com/jobs/138"
+  },
+  {
+    "title": "React Developer",
+    "company": "Paytm",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Power BI",
+      "React",
+      "Java"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a React Developer.",
+    "applyLink": "https://example.com/jobs/139"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Swiggy",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "TensorFlow",
+      "Python",
+      "Node.js"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a Backend Developer.",
+    "applyLink": "https://example.com/jobs/140"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Infosys",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "TensorFlow",
+      "CSS",
+      "Power BI"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Frontend Developer.",
+    "applyLink": "https://example.com/jobs/141"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Noida",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "HTML",
+      "Java"
+    ],
+    "salary": "8-12 LPA",
+    "description": "Opportunity for a Data Analyst.",
+    "applyLink": "https://example.com/jobs/142"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Wipro",
+    "location": "Gurgaon",
+    "type": "Hybrid",
+    "skills": [
+      "Git",
+      "AWS",
+      "SQL"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Data Engineer.",
+    "applyLink": "https://example.com/jobs/143"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "Accenture",
+    "location": "Remote",
+    "type": "Remote",
+    "skills": [
+      "HTML",
+      "Spring Boot",
+      "JavaScript"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Cloud Engineer.",
+    "applyLink": "https://example.com/jobs/144"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "IBM",
+    "location": "Hyderabad",
+    "type": "Full Time",
+    "skills": [
+      "Git",
+      "CSS",
+      "Docker"
+    ],
+    "salary": "5-7 LPA",
+    "description": "Opportunity for a DevOps Engineer.",
+    "applyLink": "https://example.com/jobs/145"
+  },
+  {
+    "title": "QA Engineer",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "skills": [
+      "Power BI",
+      "Docker",
+      "Python"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a QA Engineer.",
+    "applyLink": "https://example.com/jobs/146"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Capgemini",
+    "location": "Chennai",
+    "type": "Remote",
+    "skills": [
+      "Spring Boot",
+      "Git",
+      "React"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a AI Engineer.",
+    "applyLink": "https://example.com/jobs/147"
+  },
+  {
+    "title": "ML Engineer",
+    "company": "Cognizant",
+    "location": "Pune",
+    "type": "Full Time",
+    "skills": [
+      "Spring Boot",
+      "JavaScript",
+      "MongoDB"
+    ],
+    "salary": "Not disclosed",
+    "description": "Opportunity for a ML Engineer.",
+    "applyLink": "https://example.com/jobs/148"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Zoho",
+    "location": "Mumbai",
+    "type": "Hybrid",
+    "skills": [
+      "AWS",
+      "Node.js",
+      "MongoDB"
+    ],
+    "salary": "4-6 LPA",
+    "description": "Opportunity for a Business Analyst.",
+    "applyLink": "https://example.com/jobs/149"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "location": "Delhi",
+    "type": "Remote",
+    "skills": [
+      "Java",
+      "Docker",
+      "Spring Boot"
+    ],
+    "salary": "6-8 LPA",
+    "description": "Opportunity for a Full Stack Developer.",
+    "applyLink": "https://example.com/jobs/150"
+  }
+]

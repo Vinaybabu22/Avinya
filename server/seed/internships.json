@@ -1,0 +1,1122 @@
+[
+  {
+    "title": "Python Intern",
+    "company": "Accenture",
+    "location": "Hyderabad",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Docker",
+      "TensorFlow",
+      "Power BI"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/1"
+  },
+  {
+    "title": "Java Intern",
+    "company": "IBM",
+    "location": "Bangalore",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "React",
+      "AWS",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/2"
+  },
+  {
+    "title": "React Intern",
+    "company": "Oracle",
+    "location": "Chennai",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "React",
+      "Docker",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/3"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Capgemini",
+    "location": "Pune",
+    "duration": "3 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "HTML",
+      "Java",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/4"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Cognizant",
+    "location": "Mumbai",
+    "duration": "2 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Python",
+      "Java",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/5"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Zoho",
+    "location": "Delhi",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "MongoDB",
+      "Git",
+      "SQL"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/6"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Microsoft",
+    "location": "Noida",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "Docker",
+      "CSS",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/7"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Google",
+    "location": "Gurgaon",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "JavaScript",
+      "MongoDB",
+      "HTML"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/8"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Amazon",
+    "location": "Remote",
+    "duration": "6 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "SQL",
+      "TensorFlow",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/9"
+  },
+  {
+    "title": "Java Intern",
+    "company": "Adobe",
+    "location": "Hyderabad",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "MongoDB",
+      "JavaScript",
+      "CSS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/10"
+  },
+  {
+    "title": "React Intern",
+    "company": "Deloitte",
+    "location": "Bangalore",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Git",
+      "TensorFlow",
+      "React"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/11"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Tech Mahindra",
+    "location": "Chennai",
+    "duration": "3 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Spring Boot",
+      "MongoDB",
+      "Git"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/12"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "HCLTech",
+    "location": "Pune",
+    "duration": "6 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/13"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "LTIMindtree",
+    "location": "Mumbai",
+    "duration": "6 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "AWS",
+      "MongoDB",
+      "SQL"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/14"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Flipkart",
+    "location": "Delhi",
+    "duration": "3 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "TensorFlow",
+      "Power BI",
+      "MongoDB"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/15"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Paytm",
+    "location": "Noida",
+    "duration": "3 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Git",
+      "JavaScript",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/16"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Swiggy",
+    "location": "Gurgaon",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "Spring Boot",
+      "JavaScript",
+      "MongoDB"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/17"
+  },
+  {
+    "title": "Java Intern",
+    "company": "Infosys",
+    "location": "Remote",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Spring Boot",
+      "Python",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/18"
+  },
+  {
+    "title": "React Intern",
+    "company": "TCS",
+    "location": "Hyderabad",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Docker",
+      "SQL",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/19"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "React",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/20"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Accenture",
+    "location": "Chennai",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "React",
+      "Git",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/21"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "IBM",
+    "location": "Pune",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "TensorFlow",
+      "AWS",
+      "CSS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/22"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Oracle",
+    "location": "Mumbai",
+    "duration": "2 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Git",
+      "MongoDB",
+      "AWS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/23"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Capgemini",
+    "location": "Delhi",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "CSS",
+      "Python",
+      "JavaScript"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/24"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Cognizant",
+    "location": "Noida",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Spring Boot",
+      "AWS",
+      "Python"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/25"
+  },
+  {
+    "title": "Java Intern",
+    "company": "Zoho",
+    "location": "Gurgaon",
+    "duration": "2 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Python",
+      "HTML",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/26"
+  },
+  {
+    "title": "React Intern",
+    "company": "Microsoft",
+    "location": "Remote",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "TensorFlow",
+      "CSS",
+      "Git"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/27"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Google",
+    "location": "Hyderabad",
+    "duration": "2 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "Docker",
+      "Node.js",
+      "HTML"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/28"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Git",
+      "Docker",
+      "Node.js"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/29"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Adobe",
+    "location": "Chennai",
+    "duration": "2 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "JavaScript",
+      "MongoDB",
+      "SQL"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/30"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Deloitte",
+    "location": "Pune",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Git",
+      "TensorFlow",
+      "MongoDB"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/31"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Tech Mahindra",
+    "location": "Mumbai",
+    "duration": "6 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Docker",
+      "Git",
+      "SQL"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/32"
+  },
+  {
+    "title": "Python Intern",
+    "company": "HCLTech",
+    "location": "Delhi",
+    "duration": "3 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Java",
+      "Power BI",
+      "Python"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/33"
+  },
+  {
+    "title": "Java Intern",
+    "company": "LTIMindtree",
+    "location": "Noida",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "JavaScript",
+      "React",
+      "SQL"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/34"
+  },
+  {
+    "title": "React Intern",
+    "company": "Flipkart",
+    "location": "Gurgaon",
+    "duration": "6 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "HTML",
+      "Python",
+      "AWS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/35"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Paytm",
+    "location": "Remote",
+    "duration": "2 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "JavaScript",
+      "React",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/36"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Swiggy",
+    "location": "Hyderabad",
+    "duration": "2 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "AWS",
+      "Node.js",
+      "React"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/37"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "duration": "2 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/38"
+  },
+  {
+    "title": "ML Intern",
+    "company": "TCS",
+    "location": "Chennai",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "MongoDB",
+      "Python",
+      "React"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/39"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Wipro",
+    "location": "Pune",
+    "duration": "6 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Python",
+      "Node.js",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/40"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Accenture",
+    "location": "Mumbai",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "TensorFlow",
+      "Docker",
+      "MongoDB"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/41"
+  },
+  {
+    "title": "Java Intern",
+    "company": "IBM",
+    "location": "Delhi",
+    "duration": "3 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "SQL",
+      "AWS",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/42"
+  },
+  {
+    "title": "React Intern",
+    "company": "Oracle",
+    "location": "Noida",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "CSS",
+      "MongoDB",
+      "AWS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/43"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Capgemini",
+    "location": "Gurgaon",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "CSS",
+      "TensorFlow",
+      "MongoDB"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/44"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Cognizant",
+    "location": "Remote",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Docker",
+      "Node.js",
+      "Git"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/45"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Zoho",
+    "location": "Hyderabad",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "React",
+      "Java",
+      "JavaScript"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/46"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Docker",
+      "Python",
+      "Power BI"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/47"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Google",
+    "location": "Chennai",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Python",
+      "Docker",
+      "Spring Boot"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/48"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Amazon",
+    "location": "Pune",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "CSS",
+      "Java",
+      "Python"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/49"
+  },
+  {
+    "title": "Java Intern",
+    "company": "Adobe",
+    "location": "Mumbai",
+    "duration": "2 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Git",
+      "React",
+      "Spring Boot"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/50"
+  },
+  {
+    "title": "React Intern",
+    "company": "Deloitte",
+    "location": "Delhi",
+    "duration": "6 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "React",
+      "Docker",
+      "Power BI"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/51"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Tech Mahindra",
+    "location": "Noida",
+    "duration": "2 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Git",
+      "CSS",
+      "HTML"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/52"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "HCLTech",
+    "location": "Gurgaon",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "HTML",
+      "AWS",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/53"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "LTIMindtree",
+    "location": "Remote",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "Docker",
+      "Power BI",
+      "Node.js"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/54"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Flipkart",
+    "location": "Hyderabad",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Spring Boot",
+      "TensorFlow",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/55"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Paytm",
+    "location": "Bangalore",
+    "duration": "2 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Power BI",
+      "JavaScript",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/56"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Swiggy",
+    "location": "Chennai",
+    "duration": "6 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Docker",
+      "CSS",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/57"
+  },
+  {
+    "title": "Java Intern",
+    "company": "Infosys",
+    "location": "Pune",
+    "duration": "2 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "JavaScript"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/58"
+  },
+  {
+    "title": "React Intern",
+    "company": "TCS",
+    "location": "Mumbai",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Node.js",
+      "Power BI",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/59"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Wipro",
+    "location": "Delhi",
+    "duration": "6 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "AWS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/60"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Accenture",
+    "location": "Noida",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/61"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "IBM",
+    "location": "Gurgaon",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Git",
+      "MongoDB",
+      "Spring Boot"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/62"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Oracle",
+    "location": "Remote",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Spring Boot"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/63"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Capgemini",
+    "location": "Hyderabad",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "React",
+      "CSS",
+      "Docker"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/64"
+  },
+  {
+    "title": "Python Intern",
+    "company": "Cognizant",
+    "location": "Bangalore",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "AWS",
+      "Node.js",
+      "Python"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/65"
+  },
+  {
+    "title": "Java Intern",
+    "company": "Zoho",
+    "location": "Chennai",
+    "duration": "2 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "Spring Boot",
+      "Git",
+      "CSS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/66"
+  },
+  {
+    "title": "React Intern",
+    "company": "Microsoft",
+    "location": "Pune",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "TensorFlow",
+      "CSS",
+      "Node.js"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/67"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Google",
+    "location": "Mumbai",
+    "duration": "2 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "HTML",
+      "Spring Boot",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/68"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Amazon",
+    "location": "Delhi",
+    "duration": "2 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/69"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Adobe",
+    "location": "Noida",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Python",
+      "SQL",
+      "AWS"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/70"
+  },
+  {
+    "title": "ML Intern",
+    "company": "Deloitte",
+    "location": "Gurgaon",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "HTML",
+      "AWS",
+      "TensorFlow"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/71"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Tech Mahindra",
+    "location": "Remote",
+    "duration": "6 Months",
+    "stipend": "15000/month",
+    "skills": [
+      "MongoDB",
+      "TensorFlow",
+      "JavaScript"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/72"
+  },
+  {
+    "title": "Python Intern",
+    "company": "HCLTech",
+    "location": "Hyderabad",
+    "duration": "6 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "JavaScript",
+      "TensorFlow",
+      "Java"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/73"
+  },
+  {
+    "title": "Java Intern",
+    "company": "LTIMindtree",
+    "location": "Bangalore",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "Spring Boot",
+      "JavaScript",
+      "Power BI"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/74"
+  },
+  {
+    "title": "React Intern",
+    "company": "Flipkart",
+    "location": "Chennai",
+    "duration": "3 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "Spring Boot",
+      "HTML",
+      "Git"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/75"
+  },
+  {
+    "title": "Backend Intern",
+    "company": "Paytm",
+    "location": "Pune",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "CSS",
+      "Node.js",
+      "HTML"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/76"
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "Swiggy",
+    "location": "Mumbai",
+    "duration": "3 Months",
+    "stipend": "5000/month",
+    "skills": [
+      "React",
+      "Python",
+      "SQL"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/77"
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "Infosys",
+    "location": "Delhi",
+    "duration": "6 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Docker",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/78"
+  },
+  {
+    "title": "ML Intern",
+    "company": "TCS",
+    "location": "Noida",
+    "duration": "6 Months",
+    "stipend": "10000/month",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "MongoDB"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/79"
+  },
+  {
+    "title": "Cloud Intern",
+    "company": "Wipro",
+    "location": "Gurgaon",
+    "duration": "3 Months",
+    "stipend": "Unpaid",
+    "skills": [
+      "Node.js",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Internship opportunity.",
+    "applyLink": "https://example.com/internships/80"
+  }
+]
