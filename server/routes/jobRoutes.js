@@ -6,17 +6,26 @@ const router = express.Router();
 // Get all jobs
 router.get("/", async (req, res) => {
   try {
-    const { keyword, type, location } = req.query;
+    const { keyword, search, type, location, salary } = req.query;
     let query = {};
 
-    if (keyword) {
-      query.title = { $regex: keyword, $options: "i" };
+    const searchTerm = search || keyword;
+
+    if (searchTerm) {
+      query.$or = [
+        { title: { $regex: searchTerm, $options: "i" } },
+        { company: { $regex: searchTerm, $options: "i" } },
+        { skills: { $regex: searchTerm, $options: "i" } }
+      ];
     }
     if (type) {
       query.type = type;
     }
     if (location) {
       query.location = { $regex: location, $options: "i" };
+    }
+    if (salary) {
+      query.salary = { $regex: salary, $options: "i" };
     }
 
     const jobs = await Job.find(query).sort({ createdAt: -1 }).limit(50);

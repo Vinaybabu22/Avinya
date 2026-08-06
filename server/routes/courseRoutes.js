@@ -6,7 +6,25 @@ const router = express.Router();
 // Get all courses
 router.get("/", async (req, res) => {
   try {
-    const courses = await Course.find().sort({ createdAt: -1 });
+    const { search, duration, level } = req.query;
+    let query = {};
+
+    if (search) {
+      query.$or = [
+        { title: { $regex: search, $options: "i" } },
+        { provider: { $regex: search, $options: "i" } },
+        { skills: { $regex: search, $options: "i" } }
+      ];
+    }
+    
+    if (duration) {
+      query.duration = { $regex: duration, $options: "i" };
+    }
+    if (level) {
+      query.level = level;
+    }
+
+    const courses = await Course.find(query).sort({ createdAt: -1 });
 
     res.status(200).json(courses);
   } catch (error) {
