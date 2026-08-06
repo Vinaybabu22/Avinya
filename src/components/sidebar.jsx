@@ -15,8 +15,8 @@ import {
 function Sidebar({ onClose }) {
   const location = useLocation();
   const menuItems = [
-    { name: "Dashboard", icon: LayoutDashboard , path: "/" },
-    { name: "Jobs", icon: Briefcase , path: "/jobs" },
+    { name: "Dashboard", icon: LayoutDashboard, path: "/" },
+    { name: "Jobs", icon: Briefcase, path: "/jobs" },
     { name: "Internships", icon: GraduationCap, path: "/internships" },
     { name: "Courses", icon: BookOpen, path: "/courses" },
     { name: "Saved", icon: Heart, path: "/saved" },
@@ -56,11 +56,10 @@ function Sidebar({ onClose }) {
               onClick={onClose}
             >
               <li
-                className={`flex items-center gap-3 p-4 rounded-2xl transition-all duration-300 ${
-                  location.pathname === item.path
+                className={`flex items-center gap-3 p-4 rounded-2xl transition-all duration-300 ${location.pathname === item.path
                     ? "bg-gradient-to-r from-violet-600 to-purple-600 text-white shadow-lg"
                     : "hover:bg-violet-50 hover:translate-x-2"
-                }`}
+                  }`}
               >
                 <Icon size={20} />
                 {item.name}
