@@ -16,6 +16,24 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+    savedJobs: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Job",
+      },
+    ],
+    savedInternships: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Internship",
+      },
+    ],
+    savedCourses: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Course",
+      },
+    ],
   },
   { timestamps: true }
 );

@@ -6,7 +6,20 @@ const router = express.Router();
 // Get all jobs
 router.get("/", async (req, res) => {
   try {
-    const jobs = await Job.find().sort({ createdAt: -1 }).limit(50);
+    const { keyword, type, location } = req.query;
+    let query = {};
+
+    if (keyword) {
+      query.title = { $regex: keyword, $options: "i" };
+    }
+    if (type) {
+      query.type = type;
+    }
+    if (location) {
+      query.location = { $regex: location, $options: "i" };
+    }
+
+    const jobs = await Job.find(query).sort({ createdAt: -1 }).limit(50);
 
     res.status(200).json(jobs);
   } catch (error) {
