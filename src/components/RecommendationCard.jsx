@@ -1,6 +1,15 @@
-function RecommendationCard({ title, company, type, skills }) {
+import SaveButton from "./SaveButton";
+
+function RecommendationCard({ _id, title, company, type, skills, isSavedInitially = false, onSaveToggle }) {
   return (
-    <div className="bg-white rounded-3xl p-6 shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-all duration-300">
+    <div className="bg-white rounded-3xl p-6 shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 relative">
+      <SaveButton 
+        itemId={_id} 
+        itemType={type} 
+        isSavedInitially={isSavedInitially} 
+        className="absolute top-6 right-6"
+        onSaveToggle={onSaveToggle}
+      />
 
       <span className="bg-violet-100 text-violet-700 px-3 py-1 rounded-full text-sm">
         {type}

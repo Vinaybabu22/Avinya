@@ -1,72 +1,19 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Layout from "../layouts/Layout";
 import StatsCard from "../components/StatsCard";
 import RecommendationCard from "../components/RecommendationCard";
 
 function Dashboard() {
     const [activeTab, setActiveTab] = useState("jobs");
-    const jobs = [
-        {
-            title: "Python Developer",
-            company: "TCS",
-            type: "Job",
-            skills: ["Python", "Django", "SQL"]
-        },
-        {
-            title: "Backend Developer",
-            company: "Infosys",
-            type: "Job",
-            skills: ["Node.js", "MongoDB"]
-        },
-        {
-            title: "Data Analyst",
-            company: "Wipro",
-            type: "Job",
-            skills: ["Python", "Power BI"]
-        }
-    ];
+    const [jobs, setJobs] = useState([]);
+    const [internships, setInternships] = useState([]);
+    const [courses, setCourses] = useState([]);
 
-    const internships = [
-        {
-            title: "Data Science Intern",
-            company: "Infosys",
-            type: "Internship",
-            skills: ["Python", "ML"]
-        },
-        {
-            title: "Web Developer Intern",
-            company: "TCS",
-            type: "Internship",
-            skills: ["React", "JavaScript"]
-        },
-        {
-            title: "AI Intern",
-            company: "Accenture",
-            type: "Internship",
-            skills: ["Python", "AI"]
-        }
-    ];
-
-    const courses = [
-        {
-            title: "Python for Everybody",
-            company: "Coursera",
-            type: "Course",
-            skills: ["Python"]
-        },
-        {
-            title: "React Development",
-            company: "Udemy",
-            type: "Course",
-            skills: ["React"]
-        },
-        {
-            title: "Machine Learning",
-            company: "NPTEL",
-            type: "Course",
-            skills: ["ML", "Python"]
-        }
-    ];
+    useEffect(() => {
+        fetch("http://localhost:5000/api/jobs").then(res => res.json()).then(data => setJobs(data.slice(0, 3)));
+        fetch("http://localhost:5000/api/internships").then(res => res.json()).then(data => setInternships(data.slice(0, 3)));
+        fetch("http://localhost:5000/api/courses").then(res => res.json()).then(data => setCourses(data.slice(0, 3)));
+    }, []);
   return (
     <Layout>
         <h1 className="text-3xl md:text-4xl font-bold">
@@ -151,10 +98,11 @@ function Dashboard() {
                 : courses
                 ).map((item, index) => (
                 <RecommendationCard
-                    key={index}
+                    key={item._id || index}
+                    _id={item._id}
                     title={item.title}
-                    company={item.company}
-                    type={item.type}
+                    company={item.company || item.provider}
+                    type={activeTab === "jobs" ? "Job" : activeTab === "internships" ? "Internship" : "Course"}
                     skills={item.skills}
                 />
                 ))}

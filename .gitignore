@@ -12,6 +12,19 @@ dist
 dist-ssr
 *.local
 
+.env
+.env.*
+!.env.example
+server/.env
+server/.env.*
+
+# Code coverage
+coverage/
+.nyc_output/
+
+# Caches
+.eslintcache
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -22,3 +35,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# AI Agents
+.gemini
+.agents
