@@ -11,8 +11,8 @@ Students and professionals often visit different websites to find jobs, internsh
 * Browse Jobs
 * Explore Internships
 * Discover Courses
+* Save Opportunities
 * Receive Personalized Recommendations (Upcoming)
-* Save Opportunities (Upcoming)
 * Analyze Resume & Get Career Suggestions (Upcoming)
 
 ---
@@ -28,6 +28,7 @@ Students and professionals often visit different websites to find jobs, internsh
 * Jobs Module
 * Internships Module
 * Courses Module
+* Saved Opportunities (Jobs, Internships, Courses)
 * Modern UI using Tailwind CSS
 * REST API using Express.js
 * MongoDB Atlas Cloud Database
@@ -38,7 +39,6 @@ Students and professionals often visit different websites to find jobs, internsh
 * Resume Analyzer
 * AI-based Recommendations
 * Unified Search
-* Saved Jobs & Courses
 * Admin Dashboard
 * External API Integration
 
@@ -252,7 +252,6 @@ npm run dev
 * Resume Upload & Analysis
 * AI Recommendation Engine
 * Unified Search
-* Saved Opportunities
 * Admin Dashboard
 * External API Integration
 * Notifications

@@ -13,7 +13,17 @@ dist-ssr
 *.local
 
 .env
+.env.*
+!.env.example
 server/.env
+server/.env.*
+
+# Code coverage
+coverage/
+.nyc_output/
+
+# Caches
+.eslintcache
 
 # Editor directories and files
 .vscode/*

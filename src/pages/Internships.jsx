@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Layout from "../layouts/Layout";
+import SaveButton from "../components/SaveButton";
 
 function Internships() {
   const [internships, setInternships] = useState([]);
@@ -56,13 +57,18 @@ function Internships() {
                 key={internship._id}
                 className="bg-white rounded-2xl shadow-sm border p-5 hover:shadow-lg transition"
               >
-                <h2 className="text-xl font-bold">
-                  {internship.title}
-                </h2>
+                <div className="flex items-start justify-between gap-3">
+                  <div>
+                    <h2 className="text-xl font-bold">
+                      {internship.title}
+                    </h2>
 
-                <p className="text-violet-600 font-semibold mt-1">
-                  {internship.company}
-                </p>
+                    <p className="text-violet-600 font-semibold mt-1">
+                      {internship.company}
+                    </p>
+                  </div>
+                  <SaveButton itemId={internship._id} itemType="internship" />
+                </div>
 
                 <p className="mt-3">📍 {internship.location}</p>
 

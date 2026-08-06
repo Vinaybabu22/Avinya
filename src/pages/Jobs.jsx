@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Layout from "../layouts/Layout";
+import SaveButton from "../components/SaveButton";
 
 function Jobs() {
   const [jobs, setJobs] = useState([]);
@@ -69,9 +70,12 @@ function Jobs() {
                   </p>
                 </div>
 
-                <span className="rounded-full bg-violet-50 px-3 py-1 text-xs font-semibold text-violet-700">
-                  {job.type}
-                </span>
+                <div className="flex items-center gap-3">
+                  <span className="rounded-full bg-violet-50 px-3 py-1 text-xs font-semibold text-violet-700">
+                    {job.type}
+                  </span>
+                  <SaveButton itemId={job._id} itemType="job" />
+                </div>
               </div>
 
               <p className="mt-4 text-sm text-slate-500">
