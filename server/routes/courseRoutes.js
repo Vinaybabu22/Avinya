@@ -3,6 +3,8 @@ const Course = require("../models/Course");
 
 const router = express.Router();
 
+const escapeRegex = (text) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
 // Get all courses
 router.get("/", async (req, res) => {
   try {
@@ -18,7 +20,7 @@ router.get("/", async (req, res) => {
     }
     
     if (duration) {
-      query.duration = { $regex: duration, $options: "i" };
+      query.duration = { $regex: escapeRegex(duration), $options: "i" };
     }
     if (level) {
       query.level = level;

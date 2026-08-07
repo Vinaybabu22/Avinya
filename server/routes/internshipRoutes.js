@@ -3,6 +3,8 @@ const Internship = require("../models/Internship");
 
 const router = express.Router();
 
+const escapeRegex = (text) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
 // Get all internships
 router.get("/", async (req, res) => {
   try {
@@ -18,13 +20,13 @@ router.get("/", async (req, res) => {
     }
     
     if (location) {
-      query.location = { $regex: location, $options: "i" };
+      query.location = { $regex: escapeRegex(location), $options: "i" };
     }
     if (stipend) {
-      query.stipend = { $regex: stipend, $options: "i" };
+      query.stipend = { $regex: escapeRegex(stipend), $options: "i" };
     }
     if (duration) {
-      query.duration = { $regex: duration, $options: "i" };
+      query.duration = { $regex: escapeRegex(duration), $options: "i" };
     }
 
     const internships = await Internship.find(query).sort({ createdAt: -1 });

@@ -10,6 +10,7 @@ const internshipRoutes = require("./routes/internshipRoutes");
 const courseRoutes = require("./routes/courseRoutes");
 const authRoutes = require("./routes/authRoutes");
 const userRoutes = require("./routes/userRoutes");
+const statsRoutes = require("./routes/statsRoutes");
 
 const app = express();
 
@@ -22,9 +23,19 @@ app.use("/api/internships", internshipRoutes);
 app.use("/api/courses", courseRoutes);
 app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
+app.use("/api/stats", statsRoutes);
 
 app.get("/", (req, res) => {
   res.send("Avinya backend is running");
+});
+
+// DEBUG
+const Job = require("./models/Job");
+const Internship = require("./models/Internship");
+app.get("/api/debug-db", async (req, res) => {
+  const salaries = await Job.distinct("salary");
+  const stipends = await Internship.distinct("stipend");
+  res.json({ salaries, stipends });
 });
 
 const PORT = process.env.PORT || 5000;

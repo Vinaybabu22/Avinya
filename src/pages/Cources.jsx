@@ -1,14 +1,25 @@
 import { useEffect, useState } from "react";
+import { useSearchParams } from "react-router-dom";
 import Layout from "../layouts/Layout";
 import SaveButton from "../components/SaveButton";
 
 function Courses() {
   const [courses, setCourses] = useState([]);
+  const [visibleCount, setVisibleCount] = useState(6);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [searchParams, setSearchParams] = useSearchParams();
+  const query = searchParams.get("q") || "";
+  const duration = searchParams.get("duration") || "";
+  const level = searchParams.get("level") || "";
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/courses")
+    const params = new URLSearchParams();
+    if (query) params.append("search", query);
+    if (duration) params.append("duration", duration);
+    if (level) params.append("level", level);
+
+    fetch("http://localhost:5000/api/courses?" + params.toString())
       .then((response) => {
         if (!response.ok) {
           throw new Error("Could not load courses");
@@ -17,13 +28,24 @@ function Courses() {
       })
       .then((data) => {
         setCourses(data);
+        setVisibleCount(6);
         setLoading(false);
       })
       .catch((err) => {
         setError(err.message);
         setLoading(false);
       });
-  }, []);
+  }, [query, duration, level]);
+
+  const handleFilterChange = (key, value) => {
+    const newParams = new URLSearchParams(searchParams);
+    if (value) {
+      newParams.set(key, value);
+    } else {
+      newParams.delete(key);
+    }
+    setSearchParams(newParams);
+  };
 
   return (
     <Layout>
@@ -40,6 +62,31 @@ function Courses() {
           <p className="text-slate-500 mt-2">
             Learn in-demand skills with curated online courses.
           </p>
+
+          <div className="mt-6 flex flex-wrap gap-4">
+            <select 
+              value={level} 
+              onChange={(e) => handleFilterChange("level", e.target.value)}
+              className="bg-white border border-slate-200 text-slate-700 rounded-xl px-4 py-2 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-violet-500"
+            >
+              <option value="">All Levels</option>
+              <option value="Beginner">Beginner</option>
+              <option value="Intermediate">Intermediate</option>
+              <option value="Advanced">Advanced</option>
+            </select>
+
+            <select 
+              value={duration} 
+              onChange={(e) => handleFilterChange("duration", e.target.value)}
+              className="bg-white border border-slate-200 text-slate-700 rounded-xl px-4 py-2 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-violet-500"
+            >
+              <option value="">Any Duration</option>
+              <option value="4 Weeks">4 Weeks</option>
+              <option value="6 Weeks">6 Weeks</option>
+              <option value="8 Weeks">8 Weeks</option>
+              <option value="Self Paced">Self Paced</option>
+            </select>
+          </div>
         </div>
 
         {loading && <p>Loading courses...</p>}
@@ -51,8 +98,9 @@ function Courses() {
         )}
 
         {!loading && !error && (
-          <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
-            {courses.map((course) => (
+          <>
+            <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
+              {courses.slice(0, visibleCount).map((course) => (
               <div
                 key={course._id}
                 className="bg-white rounded-2xl border shadow-sm p-5 hover:shadow-lg transition"
@@ -100,6 +148,18 @@ function Courses() {
               </div>
             ))}
           </div>
+
+          {courses.length > visibleCount && (
+            <div className="mt-8 flex justify-center">
+              <button
+                onClick={() => setVisibleCount((prev) => prev + 6)}
+                className="rounded-xl border border-violet-600 px-6 py-2.5 font-semibold text-violet-600 transition hover:bg-violet-50"
+              >
+                Show More
+              </button>
+            </div>
+          )}
+          </>
         )}
       </div>
     </Layout>

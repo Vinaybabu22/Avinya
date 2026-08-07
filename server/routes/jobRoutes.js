@@ -3,6 +3,8 @@ const Job = require("../models/Job");
 
 const router = express.Router();
 
+const escapeRegex = (text) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
 // Get all jobs
 router.get("/", async (req, res) => {
   try {
@@ -22,10 +24,10 @@ router.get("/", async (req, res) => {
       query.type = type;
     }
     if (location) {
-      query.location = { $regex: location, $options: "i" };
+      query.location = { $regex: escapeRegex(location), $options: "i" };
     }
     if (salary) {
-      query.salary = { $regex: salary, $options: "i" };
+      query.salary = { $regex: escapeRegex(salary), $options: "i" };
     }
 
     const jobs = await Job.find(query).sort({ createdAt: -1 }).limit(50);

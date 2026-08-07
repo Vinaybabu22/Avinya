@@ -60,7 +60,7 @@ function Register() {
           <div className="mb-10">
             <h1 className="text-3xl font-bold text-blue-500 mb-10 tracking-wider">AVINYA</h1>
             <h2 className="text-[32px] font-semibold text-slate-900 leading-tight mb-2">Create an Account</h2>
-            <p className="text-sm text-slate-500">Sign up to get started.</p>
+            <p className="text-sm text-slate-500">Register to get started.</p>
           </div>
           
           {error && (
@@ -117,19 +117,19 @@ function Register() {
                 disabled={loading}
                 className="flex-1 rounded-xl bg-blue-500 py-3.5 px-4 text-sm font-semibold text-white hover:bg-blue-600 focus:outline-none disabled:opacity-70 transition-colors shadow-sm"
               >
-                {loading ? "Creating..." : "Sign Up"}
+                {loading ? "Registering..." : "Register"}
               </button>
               <Link
                 to="/login"
                 className="flex-1 rounded-xl bg-transparent border border-blue-500 py-3.5 px-4 text-sm font-semibold text-blue-500 text-center hover:bg-blue-50 transition-colors shadow-sm"
               >
-                Sign In
+                Login
               </Link>
             </div>
           </form>
           
           <p className="mt-8 text-[10px] leading-relaxed text-slate-400 max-w-xs">
-            By signing up you agree to our terms and that you have read our data policy.
+            By registering you agree to our terms and that you have read our data policy.
           </p>
         </div>
 

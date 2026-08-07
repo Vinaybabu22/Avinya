@@ -124,19 +124,19 @@ function Login() {
                 disabled={loading}
                 className="flex-1 rounded-xl bg-blue-500 py-3.5 px-4 text-sm font-semibold text-white hover:bg-blue-600 focus:outline-none disabled:opacity-70 transition-colors shadow-sm"
               >
-                {loading ? "Signing in..." : "Sign In"}
+                {loading ? "Logging in..." : "Login"}
               </button>
               <Link
                 to="/register"
                 className="flex-1 rounded-xl bg-transparent border border-blue-500 py-3.5 px-4 text-sm font-semibold text-blue-500 text-center hover:bg-blue-50 transition-colors shadow-sm"
               >
-                Sign In
+                Register
               </Link>
             </div>
           </form>
           
           <p className="mt-8 text-[10px] leading-relaxed text-slate-400 max-w-xs">
-            By signing up you agree to our terms and that you have read our data policy.
+            By logging in you agree to our terms and that you have read our data policy.
           </p>
         </div>
 

@@ -1,11 +1,23 @@
 import { Search, Bell, Menu } from "lucide-react";
 import { useContext } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate, useSearchParams } from "react-router-dom";
 import AuthContext from "../context/AuthContext";
 
 function Navbar({ onMenuClick }) {
   const { user } = useContext(AuthContext);
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const query = searchParams.get("q") || "";
+
+  const handleSearch = (e) => {
+    const val = e.target.value;
+    if (val) {
+      setSearchParams({ q: val });
+    } else {
+      setSearchParams({});
+    }
+  };
+
   return (
     <div className="bg-white rounded-3xl px-4 md:px-6 py-4 shadow-md flex justify-between items-center">
 
@@ -22,6 +34,8 @@ function Navbar({ onMenuClick }) {
           />
           <input
             type="text"
+            value={query}
+            onChange={handleSearch}
             placeholder="Search..."
             className="w-full md:w-[300px] lg:w-[500px] bg-slate-50 border border-slate-200 rounded-2xl py-3 pl-11 pr-4 focus:outline-none focus:ring-2 focus:ring-violet-400"
           />
@@ -46,7 +60,7 @@ function Navbar({ onMenuClick }) {
           </div>
           <div className="hidden md:block">
             <p className="font-semibold text-sm">
-              {user ? user.name : "Sign In"}
+              {user ? user.name : "Login"}
             </p>
             <p className="text-xs text-slate-500">
               {user ? "Student" : "Guest"}
